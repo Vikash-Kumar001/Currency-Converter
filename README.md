@@ -1,7 +1,9 @@
-Introduction
+Introduction:-
+
 This Currency Converter is a simple and easy-to-use tool for converting between different currencies. It provides an efficient way to quickly calculate currency exchange rates based on real-time or user-defined exchange rates.
 
-Features
+Features:-
+
 Real-Time Currency Exchange: The currency converter can fetch real-time exchange rates from a trusted source, such as a financial API. This allows users to perform accurate currency conversions based on the most up-to-date rates.
 
 User-Defined Exchange Rates: Users can also enter their own exchange rates if they have specific rates they want to use for conversion. This feature is particularly useful for businesses that have negotiated custom exchange rates with their financial partners.
